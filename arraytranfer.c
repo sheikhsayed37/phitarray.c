@@ -9,6 +9,7 @@ int main()
        scanf("%d",&a[i]);
 
     }
+    
     int indx,val;
     scanf("%d %d",&indx,&val);
     for(int i=n;i>=indx+1;i--)
