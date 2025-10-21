@@ -9,8 +9,11 @@ int main()
         scanf("%d",&a[i]);
 
     }
+
 int fre[6]={0};
+
     for(int i=0;i<n;i++)
+    
     {
        if(a[i]==0) 
        {
